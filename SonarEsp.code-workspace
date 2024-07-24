@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "240724-233009-esp12e",
+			"path": "../../PlatformIO/Projects/240724-233009-esp12e"
+		},
+		{
+			"name": "240724-233717-esp12e",
+			"path": "../../PlatformIO/Projects/240724-233717-esp12e"
+		}
+	],
+	"settings": {}
+}
